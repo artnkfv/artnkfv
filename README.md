@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @artnkfv
 - 👀 I’m interested in java.C++,C#.Linux and Windows platforms.
-- 🌱 I’m currently learning java and app development for android(using android studio)
+- 🌱 I’m currently learning java, web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me artem.nkfv@gmail.com
 
