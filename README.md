@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @artnkfv
 - 👀 I’m interested in ROS/ROS2, Gazebo, python, C++.Linux and Windows platforms.
-- 🌱 I’m currently learning ROS,ROS2,Gazebo,Python,URDF,Xacro
+- 🌱 I’m currently learning ROS,ROS2,Gazebo,Python,URDF.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me artem.nkfv@gmail.com
 
